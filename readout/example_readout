@@ -1,0 +1,271 @@
+subject	iaps_cat	affect_rating	dot_probe_condition	reacttime	response	post_affect_order
+042	neg	4	ga_g_p	0.8167862814518685	correct	1
+042	neg	4	po_g_p	0.733387387294897	correct	2
+042	neg	4	neu_n_p	0.7167085558553481	correct	3
+042	neg	4	ga_g_n	1.1666177838849308	correct	4
+042	neg	4	po_n_p	0.4834903174592	correct	5
+042	neg	4	ga_g_n	0.6168171506324143	correct	6
+042	neg	4	ga_g_g	no reacttime	incorrect	7
+042	neg	4	neu_n_n	0.6834701064353794	correct	8
+042	neg	4	po_p_p	0.46691254113761715	correct	9
+042	neu	5	po_p_p	1.100065488453538	correct	1
+042	neu	5	neu_g_n	0.7001824913324981	correct	2
+042	neu	5	po_n_p	0.766710707223865	correct	3
+042	neu	5	neu_n_n	0.5501551156587539	correct	4
+042	neu	5	neu_n_p	0.700065646351959	correct	5
+042	neu	5	ga_g_g	0.6500836270579384	correct	6
+042	neu	5	ga_g_n	0.8834810803896289	correct	7
+042	neu	5	ga_g_p	0.666545742638391	correct	8
+042	neu	5	ga_g_p	0.9833397216484627	correct	9
+042	neg	5	neu_n_n	0.9000979366201136	correct	1
+042	neg	5	ga_g_n	1.1666552848078027	correct	2
+042	neg	5	neu_g_n	0.5334782579516286	correct	3
+042	neg	5	ga_g_g	0.5835625166041609	correct	4
+042	neg	5	neu_n_p	no reacttime	incorrect	5
+042	neg	5	po_g_p	0.6509935178669366	correct	6
+042	neg	5	po_g_p	0.8000849494587783	correct	7
+042	neg	5	neu_n_p	no reacttime	incorrect	8
+042	neg	5	po_p_p	no reacttime	incorrect	9
+042	pos	5	neu_g_n	0.8500843376014018	correct	1
+042	pos	5	po_n_p	no reacttime	incorrect	2
+042	pos	5	neu_n_p	0.5167370565563942	correct	3
+042	pos	5	ga_g_g	0.6499924406034552	correct	4
+042	pos	5	po_g_p	0.700138674464597	correct	5
+042	pos	5	neu_n_n	0.6668587766566816	correct	6
+042	pos	5	ga_g_n	0.7167942158575897	correct	7
+042	pos	5	po_g_p	0.9501277202475649	correct	8
+042	pos	5	po_p_p	0.7167871104197729	correct	9
+042	neu	5	po_g_p	0.5167623203360563	correct	1
+042	neu	5	po_p_p	0.4667881959726401	incorrect	2
+042	neu	5	neu_g_n	no reacttime	incorrect	3
+042	neu	5	ga_g_g	0.6001410824187587	correct	4
+042	neu	5	po_g_p	no reacttime	incorrect	5
+042	neu	5	neu_n_p	0.650011388438088	correct	6
+042	neu	5	po_n_p	0.5667549977874842	correct	7
+042	neu	5	ga_g_n	no reacttime	incorrect	8
+042	neu	5	neu_n_n	0.5501677475485849	correct	9
+042	neg	4	ga_g_p	0.583431855494382	correct	1
+042	neg	4	po_p_p	0.5167516621791037	correct	2
+042	neg	4	po_n_p	no reacttime	incorrect	3
+042	neg	4	neu_g_n	0.5833998810235244	correct	4
+042	neg	4	neu_g_n	0.5000491459463774	correct	5
+042	neg	4	neu_n_p	0.7165202617484283	correct	6
+042	neg	4	neu_n_n	1.233358373423016	correct	7
+042	neg	4	ga_g_g	0.716690792260124	correct	8
+042	neg	4	ga_g_p	0.7667138651963796	correct	9
+042	pos	6	neu_g_n	0.6833769462486998	correct	1
+042	pos	6	po_g_p	0.8500780216568273	correct	2
+042	pos	6	neu_n_n	0.5833501429574426	correct	3
+042	pos	6	ga_g_g	0.6333676894419114	correct	4
+042	pos	6	ga_g_p	0.5668284206462886	correct	5
+042	pos	6	po_p_p	0.5168460066056468	correct	6
+042	pos	6	neu_n_p	0.48338768335452187	correct	7
+042	pos	6	ga_g_n	0.5168365326885578	correct	8
+042	pos	6	po_n_p	0.5999302877580703	correct	9
+042	neu	5	po_p_p	0.7499639793772985	correct	1
+042	neu	5	ga_g_n	no reacttime	incorrect	2
+042	neu	5	po_n_p	1.4000093160188953	correct	3
+042	neu	5	ga_g_g	no reacttime	incorrect	4
+042	neu	5	ga_g_p	0.8334078746411251	correct	5
+042	neu	5	ga_g_p	0.5168258745316052	correct	6
+042	neu	5	neu_n_n	0.7005460529094307	correct	7
+042	neu	5	neu_n_p	0.6166813578179244	correct	8
+042	neu	5	neu_g_n	0.5834839620397361	correct	9
+042	pos	6	po_g_p	0.716956061944984	correct	1
+042	pos	6	ga_g_p	0.8833922624148727	correct	2
+042	pos	6	neu_g_n	0.5673301435176654	correct	3
+042	pos	6	po_p_p	0.5167694257738731	correct	4
+042	pos	6	ga_g_n	0.500105989450276	correct	5
+042	pos	6	neu_n_n	0.6668031173921918	correct	6
+042	pos	6	po_n_p	0.516767452041222	correct	7
+042	pos	6	neu_n_p	0.5167054768321577	correct	8
+042	pos	6	ga_g_g	0.5001584907417964	correct	9
+042	neg	4	po_p_p	0.6334355858493836	correct	1
+042	neg	4	po_n_p	0.6325300372523088	correct	2
+042	neg	4	neu_g_n	0.7168080319875116	correct	3
+042	neg	4	ga_g_n	0.45011212775898457	correct	4
+042	neg	4	ga_g_p	0.5167895578483694	correct	5
+042	neg	4	neu_n_n	no reacttime	incorrect	6
+042	neg	4	ga_g_p	0.7000601199006269	correct	7
+042	neg	4	neu_n_p	0.43349250830260644	correct	8
+042	neg	4	ga_g_g	0.4500825217669444	correct	9
+042	pos	5	neu_g_n	0.5334565468915571	correct	1
+042	pos	5	neu_n_p	1.3501161146991763	correct	2
+042	pos	5	neu_n_n	0.6166576730242923	correct	3
+042	pos	5	po_p_p	0.4667041149564284	correct	4
+042	pos	5	po_n_p	0.4667495108105868	incorrect	5
+042	pos	5	ga_g_g	0.5168183743471673	correct	6
+042	pos	5	ga_g_n	0.6334959820719632	correct	7
+042	pos	5	ga_g_p	0.6000684490527419	correct	8
+042	pos	5	ga_g_p	0.9336344196890423	correct	9
+042	neu	3	neu_n_p	1.1666919962372049	correct	1
+042	neu	3	ga_g_n	0.5836390974354799	correct	2
+042	neu	3	ga_g_g	1.000028816498343	correct	3
+042	neu	3	ga_g_p	0.8333143197078243	correct	4
+042	neu	3	neu_g_n	0.6670190437580459	correct	5
+042	neu	3	po_n_p	0.6833631301187779	correct	6
+042	neu	3	neu_n_n	1.1832808254625888	correct	7
+042	neu	3	po_g_p	no reacttime	incorrect	8
+042	neu	3	po_p_p	1.0333900320970315	correct	9
+042	pos	3	po_p_p	no reacttime	incorrect	1
+042	pos	3	neu_n_n	1.0667169047446805	correct	2
+042	pos	3	ga_g_n	no reacttime	incorrect	3
+042	pos	3	po_g_p	0.916743214602775	correct	4
+042	pos	3	neu_n_p	no reacttime	incorrect	5
+042	pos	3	ga_g_n	no reacttime	incorrect	6
+042	pos	3	ga_g_g	no reacttime	incorrect	7
+042	pos	3	po_n_p	no reacttime	incorrect	8
+042	pos	3	po_g_p	0.9833685381468058	correct	9
+042	neg	3	neu_g_n	0.6667975909408597	correct	1
+042	neg	3	po_p_p	0.583856602787364	correct	2
+042	neg	3	po_n_p	no reacttime	incorrect	3
+042	neg	3	po_g_p	no reacttime	incorrect	4
+042	neg	3	neu_n_n	no reacttime	incorrect	5
+042	neg	3	neu_n_p	no reacttime	incorrect	6
+042	neg	3	neu_g_n	no reacttime	incorrect	7
+042	neg	3	ga_g_p	0.5668272364073346	correct	8
+042	neg	3	ga_g_g	no reacttime	incorrect	9
+042	neu	1	po_n_p	no reacttime	incorrect	1
+042	neu	1	neu_g_n	no reacttime	incorrect	2
+042	neu	1	neu_n_n	no reacttime	incorrect	3
+042	neu	1	ga_g_g	1.033435033204114	correct	4
+042	neu	1	po_p_p	0.7168250060890387	correct	5
+042	neu	1	neu_n_p	0.7001074894865269	correct	6
+042	neu	1	po_g_p	0.6999961709584568	correct	7
+042	neu	1	po_g_p	0.8499951248800244	correct	8
+042	neu	1	ga_g_n	0.8167428593310433	correct	9
+042	pos	6	neu_g_n	0.9001993864849283	correct	1
+042	pos	6	ga_g_p	0.6334580864026975	correct	2
+042	pos	6	neu_g_n	no reacttime	incorrect	3
+042	pos	6	ga_g_g	1.099401524748373	correct	4
+042	pos	6	neu_n_n	no reacttime	incorrect	5
+042	pos	6	neu_n_p	1.1333232804545332	correct	6
+042	pos	6	po_g_p	1.0668021700007557	correct	7
+042	pos	6	po_n_p	1.449964887293845	correct	8
+042	pos	6	po_p_p	no reacttime	incorrect	9
+042	neu	5	ga_g_p	0.6166785945915763	correct	1
+042	neu	5	neu_n_p	0.7166003952993378	correct	2
+042	neu	5	ga_g_g	0.5333957559219016	correct	3
+042	neu	5	neu_n_p	0.5334853633899002	correct	4
+042	neu	5	neu_n_n	0.5833868543872995	correct	5
+042	neu	5	neu_g_n	0.7501735897976687	correct	6
+042	neu	5	po_g_p	0.9665645720492648	correct	7
+042	neu	5	ga_g_n	0.5334956268002315	correct	8
+042	neu	5	po_p_p	0.616811229434461	correct	9
+042	pos	5	ga_g_g	0.5834290922684886	correct	1
+042	pos	5	neu_g_n	no reacttime	incorrect	2
+042	pos	5	neu_n_n	0.7500934562467592	correct	3
+042	pos	5	neu_n_p	no reacttime	incorrect	4
+042	pos	5	ga_g_n	0.6334553231768041	correct	5
+042	pos	5	po_g_p	0.5501424837689228	correct	6
+042	pos	5	po_p_p	0.6667514055939137	correct	7
+042	pos	5	neu_n_p	0.5167583728702994	correct	8
+042	pos	5	ga_g_p	0.5333618077183928	correct	9
+042	neu	5	po_p_p	0.7000794624814262	correct	1
+042	neu	5	po_g_p	0.5334154932497768	correct	2
+042	neu	5	neu_n_p	0.5167579781236782	correct	3
+042	neu	5	ga_g_g	0.5500232703093388	correct	4
+042	neu	5	po_g_p	no reacttime	incorrect	5
+042	neu	5	ga_g_n	no reacttime	incorrect	6
+042	neu	5	neu_g_n	0.7501518787371424	correct	7
+042	neu	5	neu_n_p	no reacttime	incorrect	8
+042	neu	5	neu_n_n	0.6001095026940675	correct	9
+042	neg	5	neu_n_p	0.5832968521726798	correct	1
+042	neg	5	neu_g_n	no reacttime	incorrect	2
+042	neg	5	ga_g_p	no reacttime	incorrect	3
+042	neg	5	ga_g_g	no reacttime	incorrect	4
+042	neg	5	neu_n_p	0.5168321904761797	correct	5
+042	neg	5	po_g_p	0.5333989138944162	correct	6
+042	neg	5	ga_g_n	0.7667730771795505	correct	7
+042	neg	5	neu_n_n	0.5162144121177334	correct	8
+042	neg	5	po_p_p	0.7002042023932518	correct	9
+042	pos	4	po_g_p	0.7834913832748498	correct	1
+042	pos	4	neu_n_n	0.7500575343105993	correct	2
+042	pos	4	ga_g_n	0.7835024361784235	correct	3
+042	pos	4	po_n_p	0.6667624584974874	correct	4
+042	pos	4	po_g_p	0.5168815337956403	correct	5
+042	pos	4	ga_g_n	0.6167291221509004	correct	6
+042	pos	4	po_p_p	0.5001466483454351	correct	7
+042	pos	4	ga_g_g	0.516686923744146	correct	8
+042	pos	4	neu_n_p	0.6834377372183553	correct	9
+042	neg	5	po_g_p	0.5668327628586667	correct	1
+042	neg	5	neu_g_n	0.5667609189858922	correct	2
+042	neg	5	neu_n_n	no reacttime	incorrect	3
+042	neg	5	ga_g_g	0.5501977482867915	correct	4
+042	neg	5	po_n_p	0.6334588758959399	correct	5
+042	neg	5	ga_g_p	no reacttime	incorrect	6
+042	neg	5	po_p_p	0.5833829069215426	correct	7
+042	neg	5	neu_n_p	0.600120555598096	correct	8
+042	neg	5	neu_g_n	0.6500792848455603	correct	9
+042	neu	1	neu_g_n	0.5167252141595782	correct	1
+042	neu	1	neu_n_n	0.46680122260931967	incorrect	2
+042	neu	1	po_p_p	0.5501377468103783	correct	3
+042	neu	1	ga_g_p	0.6168392564395617	correct	4
+042	neu	1	neu_g_n	0.766647547775392	correct	5
+042	neu	1	po_n_p	0.5834681721771631	correct	6
+042	neu	1	po_g_p	0.5834231710700806	correct	7
+042	neu	1	ga_g_g	0.6500295467794786	correct	8
+042	neu	1	neu_n_p	no reacttime	incorrect	9
+042	neg	5	po_n_p	0.8001520563730082	correct	1
+042	neg	5	po_p_p	0.7001031472746035	correct	2
+042	neg	5	po_n_p	0.7168084267336781	correct	3
+042	neg	5	neu_n_n	0.4834800540488686	correct	4
+042	neg	5	ga_g_p	0.5333969401613103	correct	5
+042	neg	5	neu_g_n	0.5834910674775529	correct	6
+042	neg	5	ga_g_n	0.5335220748193024	correct	7
+042	neg	5	ga_g_g	0.5167394250356665	correct	8
+042	neg	5	ga_g_p	0.5500532710480002	correct	9
+042	pos	5	ga_g_p	0.5667431553911229	correct	1
+042	pos	5	ga_g_p	0.8333601103081492	correct	2
+042	pos	5	po_p_p	0.6667150889111326	correct	3
+042	pos	5	po_n_p	0.5343036729982487	correct	4
+042	pos	5	ga_g_n	0.5500994563944914	correct	5
+042	pos	5	neu_n_p	0.48344057939311824	correct	6
+042	pos	5	ga_g_g	no reacttime	incorrect	7
+042	pos	5	neu_g_n	0.5167560043910271	correct	8
+042	pos	5	neu_n_n	0.7833729593080534	correct	9
+042	neu	5	po_n_p	0.7334142300610438	correct	1
+042	neu	5	ga_g_n	0.6000621331077127	correct	2
+042	neu	5	neu_n_p	0.46681345975230215	correct	3
+042	neu	5	ga_g_p	0.5668746059936893	correct	4
+042	neu	5	neu_g_n	no reacttime	incorrect	5
+042	neu	5	ga_g_g	0.9335373120366057	correct	6
+042	neu	5	po_g_p	no reacttime	incorrect	7
+042	neu	5	po_p_p	0.6167196482333566	correct	8
+042	neu	5	neu_n_n	0.6835245814600057	correct	9
+042	neg	5	ga_g_g	0.6501033643853589	correct	1
+042	neg	5	neu_n_p	0.4334932977958488	correct	2
+042	neg	5	po_g_p	0.866675535306058	correct	3
+042	neg	5	ga_g_p	0.5500410339041082	correct	4
+042	neg	5	ga_g_n	0.6668339076236407	correct	5
+042	neg	5	ga_g_n	no reacttime	incorrect	6
+042	neg	5	po_n_p	0.6500488893607326	correct	7
+042	neg	5	po_p_p	0.51677495222566	correct	8
+042	neg	5	neu_n_n	0.5668986855334879	correct	9
+042	pos	7	po_p_p	1.0000173688481482	correct	1
+042	pos	7	ga_g_g	0.48347215911735475	correct	2
+042	pos	7	neu_g_n	0.8000048159078688	correct	3
+042	pos	7	neu_n_n	0.7168254008356598	correct	4
+042	pos	7	ga_g_p	0.550037086438806	correct	5
+042	pos	7	po_n_p	0.5500173491109308	correct	6
+042	pos	7	neu_g_n	no reacttime	incorrect	7
+042	pos	7	po_g_p	0.516832979969422	correct	8
+042	pos	7	po_n_p	no reacttime	incorrect	9
+042	neu	5	neu_g_n	0.616831756254669	correct	1
+042	neu	5	po_p_p	0.6334695340528924	correct	2
+042	neu	5	po_n_p	0.5003392846638235	correct	3
+042	neu	5	neu_n_n	0.7334489677573401	correct	4
+042	neu	5	ga_g_p	1.4667799062949598	correct	5
+042	neu	5	po_n_p	no reacttime	incorrect	6
+042	neu	5	ga_g_n	0.4668012226088649	correct	7
+042	neu	5	ga_g_g	no reacttime	incorrect	8
+042	neu	5	ga_g_p	no reacttime	incorrect	9
+042	neg	5	neu_g_n	0.7334355463744942	correct	1
+042	neg	5	neu_n_p	no reacttime	incorrect	2
+042	neg	5	neu_n_n	no reacttime	incorrect	3
+042	neg	5	po_g_p	0.733385413562246	correct	4
+042	neg	5	po_n_p	no reacttime	incorrect	5
+042	neg	5	ga_g_g	0.5501290623860768	correct	6
+042	neg	5	po_p_p	no reacttime	incorrect	7
+042	neg	5	ga_g_n	0.5166731076146789	correct	8
+042	neg	5	ga_g_p	0.5336432620115374	correct	9
